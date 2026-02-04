@@ -1,4 +1,4 @@
-package cn.langya.bjd_api;
+package dev.sup3rS061c.bjdapi;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

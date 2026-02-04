@@ -1,4 +1,4 @@
-package cn.langya.bjd_api.data;
+package dev.sup3rS061c.bjdapi.data;
 
 import lombok.Data;
 

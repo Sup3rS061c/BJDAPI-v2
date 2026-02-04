@@ -1,6 +1,6 @@
-package cn.langya.bjd_api;
+package dev.sup3rS061c.bjdapi;
 
-import cn.langya.bjd_api.data.LeaderboardData;
+import dev.sup3rS061c.bjdapi.data.LeaderboardData;
 import com.google.gson.Gson;
 
 /**

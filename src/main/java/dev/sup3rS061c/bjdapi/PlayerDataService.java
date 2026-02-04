@@ -1,9 +1,9 @@
-package cn.langya.bjd_api;
+package dev.sup3rS061c.bjdapi;
 
-import cn.langya.bjd_api.data.ArenaPvpData;
-import cn.langya.bjd_api.data.BedWarsData;
-import cn.langya.bjd_api.data.SkyWarsData;
-import cn.langya.bjd_api.data.VillageDefenseData;
+import dev.sup3rS061c.bjdapi.data.ArenaPvpData;
+import dev.sup3rS061c.bjdapi.data.BedWarsData;
+import dev.sup3rS061c.bjdapi.data.SkyWarsData;
+import dev.sup3rS061c.bjdapi.data.VillageDefenseData;
 import com.google.gson.Gson;
 
 /**

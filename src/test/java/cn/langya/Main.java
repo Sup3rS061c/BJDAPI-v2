@@ -1,7 +1,9 @@
 package cn.langya;
 
-import cn.langya.bjd_api.*;
-import cn.langya.bjd_api.data.*;
+import dev.sup3rS061c.bjdapi.ApiClient;
+import dev.sup3rS061c.bjdapi.LeaderboardService;
+import dev.sup3rS061c.bjdapi.PlayerDataService;
+import dev.sup3rS061c.bjdapi.data.*;
 
 public class Main {
     public static void main(String[] args) {
