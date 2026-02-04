@@ -21,7 +21,7 @@ public class ApiClient {
     }
 
     public ApiClient(String secretKey) {
-        this.apiUrl = "http://api.bjd-mc.com:8080";
+        this.apiUrl = "https://api.mcbjd.net/v2/";
         this.secretKey = secretKey;
     }
 
