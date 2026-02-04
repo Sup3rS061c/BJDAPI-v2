@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'cn.langya'
+group = 'dev.sup3rS061c'
 version = '1.0-SNAPSHOT'
 
 repositories {
